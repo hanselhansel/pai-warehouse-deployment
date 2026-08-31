@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.0.1.1] - 2026-08-31
+
+### Changed
+
+- You can now run the project and Open-RMF setup from the canonical `projects/warehouse-deployment` path documented in the [ROS 2 guide](docker/README.md), [Open-RMF guide](docker/open-rmf/README.md), and [end-to-end runbook](RUNBOOK_OPENRMF.md).
+- You can now follow the canonical [Physical AI Portfolio status](https://github.com/hanselhansel/physical-ai-portfolio/blob/main/STATUS.md) from the project documentation.
+
 ## [0.0.1.0] - 2026-08-31
 
 ### Changed

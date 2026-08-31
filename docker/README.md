@@ -1,6 +1,6 @@
 # Local development environment
 
-This directory contains Docker-based environments for the Physical AI Foundation sprint.
+This directory contains Docker-based environments for the Warehouse Physical AI deployment project.
 
 ## ROS 2 Humble
 
@@ -9,7 +9,7 @@ A container with ROS 2 Humble desktop and basic robotics tools. This is for lear
 ### Run
 
 ```bash
-cd /Users/hansel/conductor/repos/physical-ai/warehouse-deployment
+cd /Users/hansel/conductor/repos/physical-ai/projects/warehouse-deployment
 ./docker/ros2-humble/run.sh
 ```
 

@@ -10,7 +10,7 @@ An end-to-end draft for running the Open-RMF office demo inside Docker on your M
 
 Local repo path:
 ```bash
-~/conductor/repos/physical-ai/warehouse-deployment
+~/conductor/repos/physical-ai/projects/warehouse-deployment
 ```
 
 GitHub repo:
@@ -21,7 +21,7 @@ https://github.com/hanselhansel/pai-warehouse-deployment
 Open a terminal and run:
 
 ```bash
-cd ~/conductor/repos/physical-ai/warehouse-deployment
+cd ~/conductor/repos/physical-ai/projects/warehouse-deployment
 git status
 ```
 
@@ -211,7 +211,7 @@ docker rmi ghcr.io/open-rmf/rmf/rmf_demos:latest
 After the demo is running, watch these things and write your notes in:
 
 ```
-~/conductor/repos/physical-ai/warehouse-deployment/sim/open-rmf-office-demo/office-demo-notes.md
+~/conductor/repos/physical-ai/projects/warehouse-deployment/sim/open-rmf-office-demo/office-demo-notes.md
 ```
 
 Observation checklist:
@@ -228,7 +228,7 @@ Observation checklist:
 Also read the full guide at:
 
 ```
-~/conductor/repos/physical-ai/warehouse-deployment/sim/open-rmf-office-demo/README.md
+~/conductor/repos/physical-ai/projects/warehouse-deployment/sim/open-rmf-office-demo/README.md
 ```
 
 ---
@@ -278,4 +278,4 @@ Make sure the demo is fully launched and you are inside the same container (Step
 - Docker setup: `docker/open-rmf/`
 - Deployment artifacts: `docs/`
 - Sprint plan: `/Users/hansel/.devin/plans/plan-c988028e9e95c43f.md`
-- Portfolio entry point: https://github.com/hanselhansel/physical-ai-foundation
+- Portfolio status: https://github.com/hanselhansel/physical-ai-portfolio/blob/main/STATUS.md

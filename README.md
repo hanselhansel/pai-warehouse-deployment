@@ -6,7 +6,7 @@ Owned Physical AI portfolio project focused on product, deployment, integration,
 
 This project builds evidence that Hansel can connect warehouse business requirements to AMR product decisions, WMS integration, deployment operations, and fleet-orchestration systems.
 
-Current portfolio entry point: [physical-ai-foundation](https://github.com/hanselhansel/physical-ai-foundation). The approved destination is `physical-ai-portfolio`; the current URL remains authoritative until migration verification.
+Portfolio entry point: [physical-ai-portfolio](https://github.com/hanselhansel/physical-ai-portfolio).
 
 ## Current status
 
