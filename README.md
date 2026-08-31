@@ -19,6 +19,8 @@ Current portfolio entry point: [physical-ai-foundation](https://github.com/hanse
 
 The project does not claim that Open-RMF has run successfully on this Mac.
 
+See the [changelog](CHANGELOG.md) for release history.
+
 ## Learning goals
 
 - Evaluate warehouse automation categories and vendors against real workflows.
@@ -43,6 +45,7 @@ The project does not claim that Open-RMF has run successfully on this Mac.
 - [Deployment checklist and failure runbook](docs/deployment-checklist.md)
 - [Warehouse AMR deployment playbook](docs/playbook.md)
 - [AMR fleet-orchestration analysis](docs/amr-fleet-orchestration.md)
+- [Simulation scenarios overview](sim/README.md)
 - [Open-RMF Mac and Docker runbook](RUNBOOK_OPENRMF.md)
 - [Open-RMF office demo guide](sim/open-rmf-office-demo/README.md)
 - [Open-RMF observation record](sim/open-rmf-office-demo/office-demo-notes.md)
