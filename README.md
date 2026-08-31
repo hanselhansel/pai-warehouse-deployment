@@ -1,13 +1,23 @@
-# pai-warehouse-sim
+# pai-warehouse-deployment
 
-Warehouse and distribution robotics simulation using NVIDIA Isaac Sim and Isaac Lab.
+Warehouse and logistics Physical AI: deployment artifacts, case studies, playbooks, product and integration documents, and lightweight simulation scenarios.
+
+## Contents
+
+- `docs/` — product, deployment, and solutions engineering artifacts.
+  - `vendor-matrix.md` — comparison of warehouse automation vendors.
+  - `case-study.md` — reverse-engineered public deployment case study.
+  - `prd-warehouse-robot.md` — product requirements for a warehouse robot deployment.
+  - `integration-architecture.md` — WMS/robot-fleet integration design.
+  - `deployment-checklist.md` and `runbook.md` — field deployment and operations guides.
+  - `playbook.md` — synthesized deployment playbook.
+- `sim/` — lightweight Isaac Sim scenarios for understanding warehouse workflows. No policy training.
+
+## Scope
+
+Focus: warehouse / logistics / 3PL.
+Vendors of interest: Symbotic, AutoStore, Locus Robotics, 6 River Systems, Exotec.
 
 ## Status
 
-Work in progress. See `foundation/docs/logs/` for progress.
-
-## Planned work
-
-- Model a warehouse task (palletizing, picking, AMR routing, or cold-chain loading).
-- Train RL and imitation-learning policies.
-- Compare policies and document sim-to-real failure modes.
+This is a 3-month sprint. See `../foundation/docs/logs/` for weekly progress.
