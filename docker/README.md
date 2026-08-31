@@ -1,6 +1,6 @@
 # Local development environment
 
-This directory contains Docker-based environments for the Physical AI Foundation sprint.
+This directory contains Docker-based environments for the Warehouse Physical AI deployment project.
 
 ## ROS 2 Humble
 
