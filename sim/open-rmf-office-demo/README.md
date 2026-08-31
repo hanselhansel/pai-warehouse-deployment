@@ -1,6 +1,8 @@
 # Open-RMF Office Demo
 
-Run the official Open-RMF office demo inside Docker and document it as a warehouse deployment scenario. This is the first hands-on simulation in the sprint.
+A draft guide for running the official Open-RMF office demo inside Docker and documenting it as a warehouse deployment scenario. This is the first proposed hands-on simulation in the sprint.
+
+> **Status:** This guide is unvalidated scaffolding. Confirm the current image, launch arguments, and panel connection before treating it as executable evidence.
 
 ## What Open-RMF is
 

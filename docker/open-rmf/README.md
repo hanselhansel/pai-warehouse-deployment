@@ -2,6 +2,8 @@
 
 This directory contains a Docker setup for running Open-RMF demos on your Mac. It uses the official Open-RMF demo image, which includes ROS 2 Humble, Gazebo Fortress, and the `rmf_demos` packages.
 
+> **Status:** This environment is scaffolded but has not been validated on this Mac. Verify the current image and commands before execution.
+
 ## Why this image
 
 Building `rmf_demos` from source on Humble is complicated because of a `fastapi` packaging conflict. The official image is prebuilt and avoids that problem. It is large but saves hours of setup.

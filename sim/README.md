@@ -4,13 +4,13 @@ Lightweight simulation scenarios for understanding warehouse and logistics robot
 
 ## Open-RMF office demo
 
-The first scenario is the Open-RMF office demo, run inside Docker. It demonstrates multi-robot fleet orchestration, task allocation, traffic management, and a simple WMS-like task dispatch interface.
+The first scenario is the Open-RMF office demo, scaffolded for Docker but not yet validated on this Mac. It is intended to demonstrate multi-robot fleet orchestration, task allocation, traffic management, and a simple WMS-like task dispatch interface.
 
 See `open-rmf-office-demo/` for:
 - How to run the demo.
 - What components are involved.
 - How the office scenario maps to a warehouse scenario.
-- Notes and observations from running it.
+- The observation template for a future validated run.
 
 ## Docker environments
 

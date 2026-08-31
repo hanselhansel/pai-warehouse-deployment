@@ -1,6 +1,8 @@
 # End-to-End Runbook: Open-RMF Office Demo on Mac + Docker
 
-A complete copy-paste guide for running the Open-RMF office demo inside Docker on your Mac. Paste these commands into your Codex terminal. Keep the paths and URLs as-is.
+An end-to-end draft for running the Open-RMF office demo inside Docker on your Mac. Review the commands, paths, and URLs against current practice before use.
+
+> **Status:** This is unvalidated scaffolding, not a confirmed current-practice runbook. Repair and verify the image, launch arguments, panel connectivity, and cleanup steps before execution.
 
 ---
 
@@ -276,4 +278,4 @@ Make sure the demo is fully launched and you are inside the same container (Step
 - Docker setup: `docker/open-rmf/`
 - Deployment artifacts: `docs/`
 - Sprint plan: `/Users/hansel/.devin/plans/plan-c988028e9e95c43f.md`
-- Progress tracker: `foundation/docs/progress.md` (in the `physical-ai-foundation` repo)
+- Portfolio entry point: https://github.com/hanselhansel/physical-ai-foundation
