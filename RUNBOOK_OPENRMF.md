@@ -278,4 +278,4 @@ Make sure the demo is fully launched and you are inside the same container (Step
 - Docker setup: `docker/open-rmf/`
 - Deployment artifacts: `docs/`
 - Sprint plan: `/Users/hansel/.devin/plans/plan-c988028e9e95c43f.md`
-- Portfolio status: https://github.com/hanselhansel/physical-ai-foundation/blob/main/docs/progress.md
+- Portfolio entry point: https://github.com/hanselhansel/physical-ai-foundation
