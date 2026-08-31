@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.0.1.1] - 2026-08-31
+
+### Changed
+
+- The project and Open-RMF runbooks now use the canonical `projects/warehouse-deployment` local path.
+- The project documentation now points to the canonical `physical-ai-portfolio` status page.
+
 ## [0.0.1.0] - 2026-08-31
 
 ### Changed
