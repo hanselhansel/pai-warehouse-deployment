@@ -15,7 +15,7 @@ Building `rmf_demos` from source on Humble is complicated because of a `fastapi`
 ## Run the container
 
 ```bash
-cd /Users/hansel/conductor/repos/physical-ai/projects/warehouse-deployment
+cd /Users/hansel/conductor/repos/physical-ai/warehouse-deployment
 ./docker/open-rmf/run.sh
 ```
 
@@ -46,7 +46,7 @@ The panel should connect to `ws://localhost:7878` and show robot states and task
 In a second terminal:
 
 ```bash
-cd /Users/hansel/conductor/repos/physical-ai/projects/warehouse-deployment
+cd /Users/hansel/conductor/repos/physical-ai/warehouse-deployment
 ./docker/open-rmf/exec.sh
 ```
 

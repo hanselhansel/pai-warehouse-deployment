@@ -8,7 +8,7 @@ A complete copy-paste guide for running the Open-RMF office demo inside Docker o
 
 Local repo path:
 ```bash
-~/conductor/repos/physical-ai/projects/warehouse-deployment
+~/conductor/repos/physical-ai/warehouse-deployment
 ```
 
 GitHub repo:
@@ -19,7 +19,7 @@ https://github.com/hanselhansel/pai-warehouse-deployment
 Open a terminal and run:
 
 ```bash
-cd ~/conductor/repos/physical-ai/projects/warehouse-deployment
+cd ~/conductor/repos/physical-ai/warehouse-deployment
 git status
 ```
 
@@ -209,7 +209,7 @@ docker rmi ghcr.io/open-rmf/rmf/rmf_demos:latest
 After the demo is running, watch these things and write your notes in:
 
 ```
-~/conductor/repos/physical-ai/projects/warehouse-deployment/sim/open-rmf-office-demo/office-demo-notes.md
+~/conductor/repos/physical-ai/warehouse-deployment/sim/open-rmf-office-demo/office-demo-notes.md
 ```
 
 Observation checklist:
@@ -226,7 +226,7 @@ Observation checklist:
 Also read the full guide at:
 
 ```
-~/conductor/repos/physical-ai/projects/warehouse-deployment/sim/open-rmf-office-demo/README.md
+~/conductor/repos/physical-ai/warehouse-deployment/sim/open-rmf-office-demo/README.md
 ```
 
 ---
